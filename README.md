@@ -1,7 +1,7 @@
 This a Python based Portal project with DataBase and GUI where
 Corporator and share its problem and then Innvator can give
 its solution.
-I have used the Tkinter module to for GUI.
+I have used the Tkinter module for GUI.
 For the DataBase, I have used simple file handling.
 
 ###Requirements##
