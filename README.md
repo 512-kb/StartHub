@@ -11,11 +11,6 @@ Tkinter comes preinstalled in python. If in a case it's
 not installed you can do a pip install to install tkinter
 in your System.
 
-I have also included a .exe file for if in a case you want
-to test this project and have not installed python on your 
-system, in that case you can run the .exe file(Used the 
-Pyinstaller to build the .exe file from a .py file)
-
 
 ###How to Use###
 
@@ -39,6 +34,24 @@ Pyinstaller to build the .exe file from a .py file)
 5. Now the Corporator can signin and see the solution's
 	posted by the Innovator.
 
+All the data of portal is stored in the data folder
+
 
 You also get a drop down menu when you signin from where you 
 can logout from a user or can quit the application.
+
+An example corporator and innovator is already created for testing
+
+Corporator details: 
+
+Name: examplec
+
+password: 123
+
+Innovator details: 
+
+Name: examplei
+
+password: 123
+
+Login these details to see the example
